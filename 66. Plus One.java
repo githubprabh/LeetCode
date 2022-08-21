@@ -1,4 +1,7 @@
-
+Runtime: 0 ms, faster than 100.00% of Java online submissions for Plus One.
+Memory Usage: 42.2 MB, less than 71.91% of Java online submissions for Plus One.
+    
+    
 class Solution {
     public int[] plusOne(int[] digits) {
         int[] d= new int[ digits.length + 1 ];
